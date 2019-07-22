@@ -17,8 +17,7 @@
             "intelliSenseMode": "gcc-x64",
             "browse": {
                 "path": [
-                    "${workspaceFolder}/**",
-                    "${workspaceFolder}/source/val_cfg"
+                    "${workspaceFolder}/**"
                 ]
             }
         }
