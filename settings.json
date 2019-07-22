@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "xiosbase": "cpp",
+        "system_error": "cpp",
+        "ios": "cpp",
+        "bitvector": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp",
+        "memory": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "terminal.integrated.cursorStyle": "line",
+    "workbench.colorCustomizations" : {
+        "terminal.foreground" : "#099e42",
+    },
+    "terminal.integrated.cursorBlinking": true
+}
